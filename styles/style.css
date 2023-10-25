@@ -1,5 +1,11 @@
+body {
+  background-color: rgb(255 231 187) !important;
+  font-family: "Times New Roman", Times, serif;
+}
 h1 {
   text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600 !important;
 }
 a,
 p {
@@ -7,4 +13,10 @@ p {
 }
 img {
   border-radius: 8px;
+}
+a {
+  color: rgb(215, 104, 48) !important;
+}
+a:hover {
+  color: rgb(132, 196, 37) !important;
 }
